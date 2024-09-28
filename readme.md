@@ -1,4 +1,4 @@
-The Simple Rock Paper Sisscor game with GUI 
+The simple rock paper scissor game with GUI 
 
 ## This is made buy using tkinter module of python
 
